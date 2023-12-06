@@ -6,7 +6,6 @@ Hello guys, this repo is all about the lessons and assignments that we get in ou
 ## Authors
 
 - [@mahimnamehta](https://github.com/mahimna2331798)
-- [@michelleKhalife]
 
 
 ## Roadmap | Rules to operate
@@ -15,3 +14,5 @@ Hello guys, this repo is all about the lessons and assignments that we get in ou
 
 - In Order to contribute to the repo you must get your permission from the professor in order to keep the repo in a perfect shape or in technical terms - To maintain code quality.
 
+## Contribution Rules
+- Create a branch on your name and push the code there then generate a pull request to the main branch after that I will merge it. Thank you for your contribution.
